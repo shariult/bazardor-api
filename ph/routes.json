@@ -1,0 +1,6 @@
+{
+  "/api/bazardor/categories": "/categories",
+  "/api/bazardor/categories/:id": "/categories/:id",
+  "/api/bazardor/products": "/products",
+  "/api/bazardor/products/:id": "/products/:id"
+}

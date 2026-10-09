@@ -1,0 +1,15 @@
+{
+  "name": "api-demo",
+  "version": "1.0.0",
+  "description": "Demo API for testing purposes.",
+  "type": "module",
+  "main": "db.json",
+  "scripts": {
+    "start": "npx json-server ph/db.json --routes ph/routes.json --port 8000"
+  },
+  "author": "Md. Shariul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
