@@ -20,7 +20,8 @@ When doing the assignment the both the API link provided is rate limited. This i
 
 1. Clone the project.
 2. Open terminal and navigate to project.
-3. Run below command,
+3. Run `npm install`
+4. Run below command,
 
 ```bash
 npm start
